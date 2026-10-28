@@ -1,6 +1,5 @@
 {
-  "version": "1.1.13",
-  "installer_url": "https://github.com/kashifulhuda786-droid/SAANY-PLASTIC-Releases/releases/download/v1.1.13/AB_LITE.exe",
-  "installer_sha256": "d549019ae53ae51bfc38f867d3ef7e60ecf908a730c5762143705cdb6ca87a15",
-  "release_notes": "Fix Python DLL startup issue; improve update replacement."
+  "version": "1.1.17",
+  "download_url": "https://github.com/kashifulhuda786-droid/SAANY-PLASTIC-Releases/releases/download/v1.1.17/AB_LITE.exe",
+  "sha256": "1ef8a2219051c925936a754af4e7bc332add8cf5b78050273b4b67eb2047378d"
 }
